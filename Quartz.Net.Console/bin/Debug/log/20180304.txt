@@ -1,0 +1,99 @@
+﻿2018-03-04 22:46:12,155 INFO  Quartz.Impl.StdSchedulerFactory  - Quartz.NET properties loaded from configuration file 'D:\工作目录\Source\Quartz.Net\Quartz.Net.Console\bin\Debug\quartz.config'
+2018-03-04 22:46:12,195 INFO  Quartz.Impl.StdSchedulerFactory  - Using default implementation for object serializer
+2018-03-04 22:46:12,215 INFO  Quartz.Impl.StdSchedulerFactory  - Using default implementation for ThreadExecutor
+2018-03-04 22:46:12,295 INFO  Quartz.Core.SchedulerSignalerImpl  - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-03-04 22:46:12,295 INFO  Quartz.Core.QuartzScheduler  - Quartz Scheduler v.2.0.0.400 created.
+2018-03-04 22:46:12,295 INFO  Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin  - Registering Quartz Job Initialization Plug-in.
+2018-03-04 22:46:12,565 INFO  Quartz.Simpl.RAMJobStore  - RAMJobStore initialized.
+2018-03-04 22:46:12,615 INFO  Quartz.Simpl.RemotingSchedulerExporter  - Registering remoting channel of type 'System.Runtime.Remoting.Channels.Tcp.TcpChannel' to port (555) with name (httpQuartz)
+2018-03-04 22:46:12,615 INFO  Quartz.Simpl.RemotingSchedulerExporter  - Remoting channel registered successfully
+2018-03-04 22:46:12,615 INFO  Quartz.Simpl.RemotingSchedulerExporter  - Successfully marhalled remotable scheduler under name 'QuartzScheduler'
+2018-03-04 22:46:12,625 INFO  Quartz.Core.QuartzScheduler  - Scheduler meta-data: Quartz Scheduler (v2.0.0.400) 'ServerScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - access via remote incovation.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-03-04 22:46:12,625 INFO  Quartz.Impl.StdSchedulerFactory  - Quartz scheduler 'ServerScheduler' initialized
+2018-03-04 22:46:12,625 INFO  Quartz.Impl.StdSchedulerFactory  - Quartz scheduler version: 2.0.0.400
+2018-03-04 22:46:12,625 INFO  Quartz.Xml.XMLSchedulingDataProcessor  - Parsing XML file: D:\工作目录\Source\Quartz.Net\Quartz.Net.Console\bin\Debug\quartz_jobs.xml with systemId: ~/quartz_jobs.xml
+2018-03-04 22:46:12,985 INFO  Quartz.Xml.XMLSchedulingDataProcessor  - Adding 2 jobs, 2 triggers.
+2018-03-04 22:46:12,995 INFO  Quartz.Xml.XMLSchedulingDataProcessor  - Adding job: JobGroup.Job1
+2018-03-04 22:46:12,995 INFO  Quartz.Xml.XMLSchedulingDataProcessor  - Adding job: JobGroup.Job2
+2018-03-04 22:46:13,025 INFO  Quartz.Core.QuartzScheduler  - Scheduler ServerScheduler_$_NON_CLUSTERED started.
+2018-03-04 22:46:51,969 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行开始
+2018-03-04 22:46:52,070 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行0
+2018-03-04 22:46:52,171 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行1
+2018-03-04 22:46:52,272 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行2
+2018-03-04 22:46:52,373 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行3
+2018-03-04 22:46:52,474 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行4
+2018-03-04 22:46:52,474 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行结束
+2018-03-04 22:47:00,009 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行开始
+2018-03-04 22:47:00,009 INFO  Quartz.Net.Jobs.Job2  - Job2 任务运行开始
+2018-03-04 22:47:00,119 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行0
+2018-03-04 22:47:00,119 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行0
+2018-03-04 22:47:00,229 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行1
+2018-03-04 22:47:00,229 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行1
+2018-03-04 22:47:00,338 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行2
+2018-03-04 22:47:00,338 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行2
+2018-03-04 22:47:00,439 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行3
+2018-03-04 22:47:00,439 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行3
+2018-03-04 22:47:00,559 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行4
+2018-03-04 22:47:00,559 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行4
+2018-03-04 22:47:00,559 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行结束
+2018-03-04 22:47:00,559 INFO  Quartz.Net.Jobs.Job2  - Job2 任务运行结束
+2018-03-04 23:40:29,149 INFO  Quartz.Impl.StdSchedulerFactory  - Quartz.NET properties loaded from configuration file 'D:\工作目录\Source\Quartz.Net\Quartz.Net.Console\bin\Debug\quartz.config'
+2018-03-04 23:40:29,186 INFO  Quartz.Impl.StdSchedulerFactory  - Using default implementation for object serializer
+2018-03-04 23:40:29,219 INFO  Quartz.Impl.StdSchedulerFactory  - Using default implementation for ThreadExecutor
+2018-03-04 23:40:29,302 INFO  Quartz.Core.SchedulerSignalerImpl  - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-03-04 23:40:29,303 INFO  Quartz.Core.QuartzScheduler  - Quartz Scheduler v.2.0.0.400 created.
+2018-03-04 23:40:29,308 INFO  Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin  - Registering Quartz Job Initialization Plug-in.
+2018-03-04 23:40:29,339 INFO  Quartz.Simpl.RAMJobStore  - RAMJobStore initialized.
+2018-03-04 23:40:29,371 INFO  Quartz.Simpl.RemotingSchedulerExporter  - Registering remoting channel of type 'System.Runtime.Remoting.Channels.Tcp.TcpChannel' to port (555) with name (httpQuartz)
+2018-03-04 23:40:29,372 INFO  Quartz.Simpl.RemotingSchedulerExporter  - Remoting channel registered successfully
+2018-03-04 23:40:29,373 INFO  Quartz.Simpl.RemotingSchedulerExporter  - Successfully marhalled remotable scheduler under name 'QuartzScheduler'
+2018-03-04 23:40:29,378 INFO  Quartz.Core.QuartzScheduler  - Scheduler meta-data: Quartz Scheduler (v2.0.0.400) 'ServerScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - access via remote incovation.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-03-04 23:40:29,378 INFO  Quartz.Impl.StdSchedulerFactory  - Quartz scheduler 'ServerScheduler' initialized
+2018-03-04 23:40:29,378 INFO  Quartz.Impl.StdSchedulerFactory  - Quartz scheduler version: 2.0.0.400
+2018-03-04 23:40:29,385 INFO  Quartz.Xml.XMLSchedulingDataProcessor  - Parsing XML file: D:\工作目录\Source\Quartz.Net\Quartz.Net.Console\bin\Debug\quartz_jobs.xml with systemId: ~/quartz_jobs.xml
+2018-03-04 23:40:29,672 INFO  Quartz.Xml.XMLSchedulingDataProcessor  - Adding 2 jobs, 2 triggers.
+2018-03-04 23:40:29,675 INFO  Quartz.Xml.XMLSchedulingDataProcessor  - Adding job: JobGroup.Job1
+2018-03-04 23:40:29,679 INFO  Quartz.Xml.XMLSchedulingDataProcessor  - Adding job: JobGroup.Job2
+2018-03-04 23:40:29,715 INFO  Quartz.Core.QuartzScheduler  - Scheduler ServerScheduler_$_NON_CLUSTERED started.
+2018-03-04 23:40:30,013 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行开始
+2018-03-04 23:40:30,114 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行0
+2018-03-04 23:40:30,215 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行1
+2018-03-04 23:40:30,316 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行2
+2018-03-04 23:40:30,417 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行3
+2018-03-04 23:40:30,518 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行4
+2018-03-04 23:40:30,518 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行结束
+2018-03-04 23:40:59,999 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行开始
+2018-03-04 23:41:00,001 INFO  Quartz.Net.Jobs.Job2  - Job2 任务运行开始
+2018-03-04 23:41:00,100 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行0
+2018-03-04 23:41:00,101 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行0
+2018-03-04 23:41:00,201 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行1
+2018-03-04 23:41:00,203 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行1
+2018-03-04 23:41:00,302 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行2
+2018-03-04 23:41:00,304 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行2
+2018-03-04 23:41:00,403 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行3
+2018-03-04 23:41:00,405 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行3
+2018-03-04 23:41:00,504 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行4
+2018-03-04 23:41:00,504 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行结束
+2018-03-04 23:41:00,506 INFO  Quartz.Net.Jobs.Job2  - Job2 正在运行4
+2018-03-04 23:41:00,506 INFO  Quartz.Net.Jobs.Job2  - Job2 任务运行结束
+2018-03-04 23:41:29,999 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行开始
+2018-03-04 23:41:30,100 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行0
+2018-03-04 23:41:30,201 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行1
+2018-03-04 23:41:30,302 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行2
+2018-03-04 23:41:30,403 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行3
+2018-03-04 23:41:30,504 INFO  Quartz.Net.Jobs.Job1  - Job1 正在运行4
+2018-03-04 23:41:30,504 INFO  Quartz.Net.Jobs.Job1  - Job1 任务运行结束

@@ -1,0 +1,17 @@
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\Common.Logging.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\log4net.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\Quartz.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\C5.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\Quartz.Net.Jobs.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\Quartz.Net.Jobs.pdb
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Demo\obj\Release\Quartz.Net.Jobs.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Demo\obj\Release\Quartz.Net.Jobs.pdb
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\bin\Release\Quartz.Net.Jobs.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\bin\Release\Quartz.Net.Jobs.pdb
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\bin\Release\Common.Logging.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\bin\Release\log4net.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\bin\Release\Quartz.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\bin\Release\C5.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\obj\Release\Quartz.Net.Jobs.dll
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\obj\Release\Quartz.Net.Jobs.pdb
+E:\vs2012\Quartz 2.0\Quartz.Net.2.0\Quartz.Net.Jobs\obj\Release\Quartz.Net.Jobs.csprojResolveAssemblyReference.cache
